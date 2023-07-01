@@ -3,7 +3,7 @@ Thank you for checking out my solo texture pack. This is a all in one, you dont 
 
 ------------------------------------------------------------------------
 
-Download the "RobloxStudio Icon Refresher" zip and extract it somewhere you are able to know where it is.
+Download the "RIRREFRESH" zip and extract it somewhere you are able to know where it is.
 
 Then go to roblox studio, click file, then studio settings, then in directories, there should be a option called "Custom Icon Dir".
 
